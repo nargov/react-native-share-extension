@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/nimrod/dev/react-native-share-extension/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/home/nimrod/.gradle/caches/transforms-2/files-2.1/60a454f0fd55d5b5c69c28fcf15ce2aa/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/nimrod/dev/react-native-share-extension/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/nimrod/.gradle/caches/transforms-2/files-2.1/60a454f0fd55d5b5c69c28fcf15ce2aa/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]

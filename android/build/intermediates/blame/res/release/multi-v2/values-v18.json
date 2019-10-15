@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/nimrod/dev/react-native-share-extension/android/build/intermediates/res/merged/release/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/nimrod/.gradle/caches/transforms-2/files-2.1/60a454f0fd55d5b5c69c28fcf15ce2aa/appcompat-1.0.2/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/nimrod/dev/react-native-share-extension/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/nimrod/.gradle/caches/transforms-2/files-2.1/60a454f0fd55d5b5c69c28fcf15ce2aa/appcompat-1.0.2/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

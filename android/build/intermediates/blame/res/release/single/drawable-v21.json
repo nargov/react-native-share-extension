@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/nimrod/dev/react-native-share-extension/android/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/home/nimrod/.gradle/caches/transforms-2/files-2.1/60a454f0fd55d5b5c69c28fcf15ce2aa/appcompat-1.0.2/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/home/nimrod/dev/react-native-share-extension/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/nimrod/.gradle/caches/transforms-2/files-2.1/60a454f0fd55d5b5c69c28fcf15ce2aa/appcompat-1.0.2/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/nimrod/dev/react-native-share-extension/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/nimrod/.gradle/caches/transforms-2/files-2.1/60a454f0fd55d5b5c69c28fcf15ce2aa/appcompat-1.0.2/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/nimrod/dev/react-native-share-extension/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/nimrod/.gradle/caches/transforms-2/files-2.1/60a454f0fd55d5b5c69c28fcf15ce2aa/appcompat-1.0.2/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/nimrod/dev/react-native-share-extension/android/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/home/nimrod/.gradle/caches/transforms-2/files-2.1/60a454f0fd55d5b5c69c28fcf15ce2aa/appcompat-1.0.2/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/nimrod/dev/react-native-share-extension/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/home/nimrod/.gradle/caches/transforms-2/files-2.1/78ec0d98039e681c059e283c790a9814/core-1.0.1/res/drawable-v21/notification_action_background.xml"
+    }
+]
